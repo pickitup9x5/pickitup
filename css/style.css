@@ -226,7 +226,7 @@ hr{
 /* howtouse highlight */
 .banner-container .banner .content p{
   font-size: 2rem;
-  color:red;
+  color:var(--black);
 }
 
 .banner-container .banner:hover img{
